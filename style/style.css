@@ -2,7 +2,7 @@
 
 
 body{
-    background-image: url("photos/bg3.png");
+    background-image: url("photos\bg3.png");
 }
  #id >div.container{
      height: 70px;
